@@ -1,1 +1,6 @@
-{"app_name":"expenses_manager","version":"1.0.0","build_number":"1","package_name":"expenses_manager"}
+{
+    "app_name": "Expenses Manager",
+    "version": "1.0.0",
+    "build_number": "1",
+    "package_name": "expenses_manager"
+}
